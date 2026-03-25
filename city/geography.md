@@ -49,7 +49,7 @@
 ## Sunnyside
 * mostly numbered streets
     * perpendicular to/parallel to (With/Across) river
-        * ('awi) 'akotemi ta /('awi) 'atemi wi'a (plains)
+        * ('awi) temi ta /('awi) temi wi'a (plains)
         * (MMhMN-)gR-qLMN/(MMhMN-)qL-qLMN
     * start east/north
     * 1W crosses the top of Long Doc, 1A is closest to the eastern lock

@@ -20,7 +20,7 @@
         * possibly trickery but also just paying for something
 * pemmam
     * (vt) - carry, bear
-    * (vi) -  worry about, + 'ako- -tti
+    * (vi) -  worry about, + tti
 ## numbers (base 20)
 * ni - one
 * ki - two
@@ -44,7 +44,7 @@
 * kam - twenty
 * kanni - twenty-one
 * kam wa 'onti - thirty-five
-* 'akoki winnan - thirty-six (dat.-two four-minus →"four less than two [twenties]"
+* kiko winnan - thirty-six (dat.-two four-minus →"four less than two [twenties]"
 * kikam - forty
 * mikam - sixty
 * 'onkam - two-hundred
@@ -87,7 +87,7 @@
 * 'a'i-ko me-nikkit - 'a'i festival
 * kkippi-ko me-nikit - kkippi festival
 * ttinta-ko me-nikit - ttinta festival
-* wwoma-ko me-nikit - grandmother festival, another name for 'ako-ttinta me-nikit
+* wwoma-ko me-nikit - grandmother festival, another name for ttintako me-nikit
 * me-kkepo - rite, event
 * (ke-/te-)-mammo-ko me-kkepo - adulthood rite
 * me-'atowa - rainy season
@@ -211,7 +211,7 @@
 * we-wwitte - beehive
     * they think of it as one single organism, like a weird plant
 * we-ttekke - fire
-* $TK_BUSINESS
+* $TK-BUSINESS
 
 ### adjectives
 * 'omako (adj) - maternal, (on one's) mother's (side)

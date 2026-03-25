@@ -35,43 +35,43 @@
 * incense
 ##  holidays
 * 5 major seasonal festivals
-    * 'ako-'i'i me-nikit - 'i'i festival (ítcdzâtʃèè/.60, end of rainy season)
+    * 'i'iko me-nikit - 'i'i festival (ítcdzâtʃèè/.60, end of rainy season)
         * babies/birth, flowers/flowering plants, nniwak
         * flower garlands/crowns
         * games
         * footraces
         * traditionally rock-throwing/-slinging but that's not feasible in city but it's become the start of slap ball season
         * new garlands for the altar 
-    * 'ako-'owi me-nikit - 'owi festival (dzâtʃádzîk/ , beginning of windy season)
+    * 'owiko me-nikit - 'owi festival (dzâtʃádzîk/ , beginning of windy season)
         * toddlers/children, (young) families, home-making
         * celebrated with your family
         * games
             * rugby
             * tag
         * foods
-            * 'akowamak ggeni
+            * wamakako ggeni
                 * stash eggs in ashes overnight, eat them for breakfast
-            * 'ako'owi nimmko
+            * owiko nimmko
                 *  ~terrine
-    * 'ako-'a'i me-nikkit - 'a'i festival (ítcîtcdzìk/ , middle of windy season
+    * a'iko me-nikkit - 'a'i festival (ítcîtcdzìk/ , middle of windy season
         * mothers, older women, patience, innovation, storytelling
         * games
             * 'a'i-growing contests
             * storytelling contests
             * showing off, exchanging crafts
         * foods
-            * 'ako'a'i 'eto
+            * a'iko 'eto
             * sweets
-    * 'ako-kkippi me-nikit - kkippi festival (îtcdzàdzìk/ , end of windy season)
+    * kkippiko me-nikit - kkippi festival (îtcdzàdzìk/ , end of windy season)
         * fathers, older men, diligence, persistence
         * singing, dancing, music, drama, etc
         * games
-    * 'ako-ttinta me-nikit - ttinta festival (ítcîtctʃèè/.19, middle of rainy season)
-        * also called 'ako-wwoma me-nikit
+    * ttintako me-nikit - ttinta festival (ítcîtctʃèè/.19, middle of rainy season)
+        * also called wwomako me-nikit
         * the elderly, the passage of time, reflection
         * 'end of the year'
         * visits with/gifts for grandparents/anyone over 65
-        * 'ako-'a'immi we-'ettin/'ako 'aimmi we-nnattin - "interring intentions"/"unwrapping intentions" ~ new year's resolutions
+        * 'a'immiko we-'ettin/'a'immiko we-nnattin - "interring intentions"/"unwrapping intentions" ~ new year's resolutions
             *  traditionally you recorded your goal(s) for the year in a clay jar you literally buried & dug up
             *  reflect on how you did/what you want to do
         * clean up balcony/roof space
@@ -84,15 +84,15 @@
                 * ppa'a - basically jhalmuri
             * ttinta wa 'owi - ttinta cooked in a nannka with more liquid than most plains folk dishes, almost a stew many babies' first solid food, also fed to sick/elderly
                 * comfort food
-            * 'ako-ttinta mmeppo - rice wine
+            * ttintako mmeppo - rice wine
             * po'emmannke ttinta - mochi-like cakes made from mashed overcooked rice
-* 40ish days between 'ako-ttinta & 'ako-'i'i are called me-'i-tto'e me-'i-pew "fallow days" or 'a-WWama nnan me-'i-pew "days without Grandfather" & are a rest period commemorating WWoma Mitto waiting sadly for WWama Mo'anna to come back for the first time. starting something new during this time is considered unlucky, children born during this time are stereotyped as spooky
+* 40ish days between ttintako & 'i'iko are called me-'i-tto'e me-'i-pew "fallow days" or 'a-WWama nnan me-'i-pew "days without Grandfather" & are a rest period commemorating WWoma Mitto waiting sadly for WWama Mo'anna to come back for the first time. starting something new during this time is considered unlucky, children born during this time are stereotyped as spooky
 * ancestors' birthdays
     * exact dates get fuzzy so certain days/times of year are important to certain clans/families
 
 ### adulthood ritual
 * traditionally celebration of first time riding an oryx alone, nowadays the kid gets carried around the neighborhood and then there's a party
-* traditional outfit ('akokkippi ttewa)
+* traditional outfit (kkippiko ttewa)
     * chaps
     * stiff shirt with a bevor-like neck
         * 'kirby was here' vibes
