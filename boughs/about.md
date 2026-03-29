@@ -14,6 +14,7 @@
         * inheritance important, so parentage important
     * custody semi-commoditized
         * birthing parent not considered closer to/more responsible for
+            * if anything carrying/birthing is enough already
         * worked out in advance of/early in affairs
             * joint custody not really a thing but sometimes "the first 5 years/the next 5 years"
         * part of other agreements
@@ -34,6 +35,7 @@
 * strong
 * tough skin
 * gray-green - gray-brown
+    * mottled kind of like a gecko
 * long fingers with extra joints
 * nostrils but no nose
 * no lips, beak like mouth

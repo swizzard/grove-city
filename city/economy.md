@@ -13,7 +13,7 @@
         * seeds kept in shallow bowls (like mancala)
         * ledger, not currency, but roughly map onto subdivisions of currency
         * plains folk barter
-            * getting a good deal is nniwak 
+            * getting a good deal is _nniwak_
         * hills folk manage resources collectively
 * employment
     * mostly boughs folk employers
@@ -24,6 +24,12 @@
             * construction, objets d'art, automata
         * funded by merchants to produce goods for export
             * woodware, instruments, cloth, dyes
+        * some plains folk starting to open workshops
+            * _'owi_-skin tanneries
+                * sports equipment
+            * _'eto_ factories
+                * _'a'iko 'eto_, _'a'iko nnaw_
+                * _ttintako 'eto_
     * technically/ostensibly always ad-hoc
         * it's a new contract every time even if the parties and terms are the same
     * haggling

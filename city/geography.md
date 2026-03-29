@@ -9,7 +9,7 @@
     * buildings on top of/hanging down
     * intra-boughsfolk civic buildings
         * titles & licensing bureau, marriage office, courts
-    * religious center/temple
+    * <span id="boughs-temple">religious center/temple</span>
         * one discrete, shabbyish building (boughsfolk aren't that religious)
         * mostly where you come to give birth
             * birthing ritual with family & friends
@@ -71,6 +71,9 @@
                 * hillfolk civic buildings
             * Animals
                 * hides, food, fertilizer
+* built on top of limestone/sandstone
+    * hills folk literally scraped peat & loam away until they found something reliable
+    * 'ground level' literally lower than Shadyside
 ### Market District
 * 3A - 5A / 1W - 3W
 * all trade goes through Long Dock
@@ -112,13 +115,19 @@
     * breadfruit
 
 # nearby
-* the River Remaining
-    * basically a canal west of city, 
-        * needs to be periodically dredged
-            * it takes a few dozen hills folk
-* reforestation project to immediate north and west
-    * ~50 years old, not going great
-    * hillsfolk were asked & refused because they don't trust the boughs folk or trees
+* immediate vicinity mostly [marsh](https://en.wikipedia.org/wiki/Marsh) and lowlands
+    * peat bogs
+    * _ttinta_ farms
+* east
+    * the River Remaining
+        * basically a canal east of city
+            * needs to be periodically dredged
+                * it takes a few dozen hills folk
+* north
+    * reforestation/tree farming to immediate north
+        * ~50 years old, not going great
+            * hillsfolk were asked & refused because they don't trust the boughs folk or trees
+        * boughsfolk-run tree farms staffed by plainsfolk
 * swamps to the west
     * low-lying
     * sandy/silty soil
@@ -126,7 +135,8 @@
     * small copper mine a day's walk from city run by hills folk
     * further west is the Sullen Sea
 * barrens to the south
-    * humid but sandy soil
+    * humid
+    * sandy soil
     * rocky hills, limestone cliffs with spooky fossils
 
 # beyond
