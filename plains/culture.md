@@ -65,15 +65,16 @@
 * preserved/fermented stuff buried in the ground for you to come back to next year
 * seasonal/local (nomadic)
         * traditionally you e.g. ate wild rice at the time of year when you harvest the wild rice at the place that grows wild rice
-* 'owi
-* nnaw (schmaltz)
-* honey
-* eggs
-* wild rice
-* yams/sweet potatoes
-    * "sweet potato jam" — mashed sweet potatoes (+ honey, maybe spices) slow-cooked
-* wild onion/garlic
-* chiles
+* _'owi_
+* _nnaw_ (schmaltz)
+* _wwitteko nnaw_ (honey)
+* _ggeni_ (egg)
+* _ttinta_ (wild rice)
+* _'a'i_ (yams/sweet potatoes)
+    * _'a'iko 'eto_ ("sweet potato jam") — mashed sweet potatoes (+ honey, maybe spices) slow-cooked
+* _kkamonn_ (wild onion)
+* _mmi'i_ (chiles)
+
 ##  employment/livelihood
 * small-scale personal farming on apartment roofs
     * 'owi, 'a'i, kkamonn

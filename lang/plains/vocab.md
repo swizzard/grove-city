@@ -79,23 +79,24 @@
 * me-mmo'o - vegetable, edible plant, side dish
 * me-'awwokke - seafood, meat that isn't 'owi or kkippi
 * me-'a'i - yam
-* 'a'i-ko me-'eto - sweet potato jam
+* 'a'iko me-'eto - sweet potato jam
+* me-mmi'i - chile
 * me-ttinta - wild rice
 * me-nikit - festival, celebration, feast
-* 'i'i-ko me-nikit - 'i'i festival
-* 'owi-ko me-nikit - 'owi festival
-* 'a'i-ko me-nikkit - 'a'i festival
-* kkippi-ko me-nikit - kkippi festival
-* ttinta-ko me-nikit - ttinta festival
-* wwoma-ko me-nikit - grandmother festival, another name for ttintako me-nikit
+* 'i'iko me-nikit - 'i'i festival
+* 'owiko me-nikit - 'owi festival
+* 'a'iko me-nikkit - 'a'i festival
+* kkippiko me-nikit - kkippi festival
+* ttintako me-nikit - ttinta festival
+* wwomako me-nikit - grandmother festival, another name for ttintako me-nikit
 * me-kkepo - rite, event
-* (ke-/te-)-mammo-ko me-kkepo - adulthood rite
+* (ke-/te-)-mammoko me-kkepo - adulthood rite
 * me-'atowa - rainy season
 * me-'akkott - windy season
 * me-'a'immi - plan, intention, resolution
 * me-nnaw - cooking fat, schmaltz
-* wwitte-ko nnaw - honey
-* 'a'i-ko nnaw - sweet-potato molasses
+* wwitteko nnaw - honey
+* 'a'iko nnaw - sweet-potato molasses
 * me-mmeppo - fermented/alcoholic beverage
 * ttinta-ko mmeppo - low-abv (1-4%) [makgeolli](https://en.wikipedia.org/wiki/Makgeolli)-like beverage
 * me-wiwwna - gourd/melon
