@@ -82,22 +82,35 @@
         * counting, etc
 * handbell ensembles
 
+## poetry
+* interlocking internal rhyme schemes, e.g.
+
+```
+    A B C D 
+    B C D A
+    C D A B
+    D A B C
+```
+
 ## alert/buddy system
 * all adults
     * adulthood means being responsible for others
 * "you are responsible for alerting these 5 people"
 * "you are responsible for the security of these 0-2 people"
 * (a variation on) the same hair ornament for everyone involved
-    * a trumpet and an outstretched hand?
+    * a bell and an outstretched hand?
 * plains folk are beneficiaries but lower-tier
     * not responsible enough to participate
     * "secure your own mask first" vibes — check on your upstairs neighbors after you've alerted your own people
 * all adults can (or are supposed to be able to) do a certain set of things
-    * staunch blood, clean wound, apply bandages
-    * diagnose a sprain/break/displacement, make a splint 
+    * speak, read, & write fluently, understand and give instructions, warnings, &c.
+    * staunch blood, clean wounds, apply bandages, diagnose a sprain/break/displacement, make a splint 
     * extinguish a small fire without water
     * build a two-person shelter
-    * carry a child (~60lbs) 400 $TK-UNIT-OF-DISTANCE in less than $TK-TIME
+    * carry a child (~60lbs) 512 $TK-UNIT-OF-DISTANCE or an adult (~200lbs) 128 $TK-UNIT-OF-DISTANCE in less than $TK-TIME
+    * not get lost—identify cardinal directions/landmarks above ground, recall directions/landmarks below ground
+    * identify potable water, boil/filter acceptably non-potable water
+* exams?? 
 
 ## food
 * fire underground tricky
