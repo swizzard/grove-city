@@ -10,6 +10,8 @@
     * steam-distillation of flowers & trees
 * wormleather → agouti leather?
 * metalworking
+    * copper-based — bronze in the hills, brass in the city
+* rubber made from latex from [indigo milkcap](/city/geography.md#indigo-milkcap)
 
 
 ## projects

@@ -13,3 +13,4 @@
     * nurture > nature, 'biological' parentage not really considered distinct or more important
 * orphans/unwanted babies raised in [the temple](/city/geography.md#boughs-temple)
     * if birth leads to birther's death, there is an attempt to have baby adopted by other parent, birther or other parent's friends/family first
+* technology of preserving flowers/plants → jewelry

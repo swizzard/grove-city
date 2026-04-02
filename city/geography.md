@@ -110,34 +110,45 @@
     * some kind of snail
     * frogs 
 * flora
-    * feral flowering vine formerly used for poison, now starting to be used for latex production
+    * <span id="indigo-milkcap">[indigo milkcap](https://en.wikipedia.org/wiki/Lactarius_indigo)</span>
     * wild melons
     * breadfruit
+    * [papyrus](https://en.wikipedia.org/wiki/Cyperus_papyrus)
 
 # nearby
-* immediate vicinity mostly [marsh](https://en.wikipedia.org/wiki/Marsh) and lowlands
-    * peat bogs
-    * _ttinta_ farms
-* east
+* north and east
+    * farms owned by boughsfolk
+        * rural boughsfolk aren't averse to manual labor like their urban cousins 
+        * most use plainsfolk labor
+            * arrangements vary from contracted hands to tenant farming to basically plantations
+        * _ttinta_, trees, papyrus
+* south and west
+    * boughsfolk consider the land bad so mostly don't care
+    * small copper, zinc mines (one each)
+        * < 20 years old
+        * run by hillsfolk 
+            * boughsfolk don't really understand metal so basically ignore the mines 
+        * getting ore to city still unoptimized — currently going overland but it's not great
+            * by river involves paying for space on a boat + more taxes
+            * some debate about building a road v.s.
+    * mushroom farms
+        * mostly plainsfolk-operated but selling to (and occasionally getting advice/materials from) hillsfolk
+    * one small limestone quarry that grinds the limestone on-premeses
+* further west
     * the River Remaining
-        * basically a canal east of city
+        * basically a canal west of city
             * needs to be periodically dredged
                 * it takes a few dozen hills folk
-* north
-    * reforestation/tree farming to immediate north
-        * ~50 years old, not going great
-            * hillsfolk were asked & refused because they don't trust the boughs folk or trees
-        * boughsfolk-run tree farms staffed by plainsfolk
-* swamps to the west
-    * low-lying
-    * sandy/silty soil
-    * skunk cabbage
-    * small copper mine a day's walk from city run by hills folk
-    * further west is the Sullen Sea
-* barrens to the south
-    * humid
-    * sandy soil
-    * rocky hills, limestone cliffs with spooky fossils
+            * there are a handful of otherwise-unused waystations 
+* further north
+    * tree farms, scrubland
+    * pockets of pastoral plainsfolk
+* further east
+    * marshy and then hilly
+    * river ends near eastern hills
+* further south
+    * limestone cliffs, weird fossils
+    * sandy beaches, tropical savannahs
 
 # beyond
 ## the eastern hills
