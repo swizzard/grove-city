@@ -13,6 +13,8 @@
     * copper-based — bronze in the hills, brass in the city
 * rubber made from latex from [indigo milkcap](/city/geography.md#indigo-milkcap)
 
+* more numerous & longer-lived than in hills, it's kind of weird for them
+
 
 ## projects
 * Important
@@ -106,6 +108,7 @@
     * "secure your own mask first" vibes — check on your upstairs neighbors after you've alerted your own people
 * all adults can (or are supposed to be able to) do a certain set of things
     * speak, read, & write fluently, understand and give instructions, warnings, &c.
+        * common set of signs ('danger', 'exit', etc.)
     * staunch blood, clean wounds, apply bandages, diagnose a sprain/break/displacement, make a splint 
     * extinguish a small fire without water
     * build a two-person shelter
@@ -118,15 +121,21 @@
 * fire underground tricky
 * heated stones
     * directly on → ~hibachi/kbbq
-    * soups
 * hot springs
     * cooked stuffed/wrapped in $TK
         * animal intestines? worm skin?
         * minerals in water important to taste, need to be added/reproduced in city
+* soups/broths/teas
+    * steeped for a long time
+    * pressure-cooked/superheated
 * mushrooms
+    * mushroom farms in caves and basements
 * mosses, lichens
 * agouti
 * bugs
+    * historically/in the old country there were periodic attempts at bug farming when population growth was judged to merit it but it's difficult and never lasts that long
+        * it's relatively a lot of work & population usually decreased naturally
+    * some attempts in city, it's going ok
 
 ## opinions
 * boughs folk are untrustworthy
