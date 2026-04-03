@@ -124,6 +124,8 @@
     * also "secret sauce" (complementary)/"one weird trick" (derogatory)
 * qRLhNR (in.) - alloy, combination, bronze, brass, synthesis
 * hLLL (in.) - hair ornament, keepsake, trophy, accomplishment
+* <span id="hLdN">hLdN (in.) - food baked/cooked in containers</span>
+    * → plainsfolk _'eto_
 ## adjectives
 * -NM- (adj/quantifier) - all
 * -NL- (adj/quantifier) - each, every, per

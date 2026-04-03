@@ -102,6 +102,8 @@
 * me-wiwwna - gourd/melon
     * traditionally a plant kind of like [Lagenaria abyssinica](https://www.inaturalist.org/taxa/1066253-Lagenaria-abyssinica), but in the city, [L. sphaerica](https://en.wikipedia.org/wiki/Lagenaria_sphaerica)
 * me-mikka - birth
+* me-'elten - 'eto cooked by hillfolk/with hillfolk techniques
+    * 'eto → [hLdN](lang/hills/vocab.md#hLdN) → 'elten
 
 * 'e-'o'o - stand of trees, forest
 * 'e-mi'o 'e-o'o - The Grove
@@ -135,7 +137,7 @@
 * 'e-'inni - eyes
 * 'e-Me'iwa - the creator deity
 * 'e-'iwappe - (open) sky
-* 'e-nimmko - a wrapping used in cooking/preserving food, wrapping food as part of cooking/preserving it
+* 'e-'eto - a wrapping used in cooking/preserving food, wrapping food as part of cooking/preserving it
     * bark/leaves/skin/intestines/etc
     * often also includes a pre-fired clay vessel or coating of mud
 * 'e-nniwak - daring, initiative, self-motivation, boldness, assertiveness, "machismo"
