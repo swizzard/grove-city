@@ -88,7 +88,7 @@
     * "danger above time"—in hills, hills folk spend more time below ground, to avoid landslides, flash floods, avalanches, etc
 * GNM (in.) - year
 * GNML (in.) - calendar
-* xLgL-GL (in.) "below plant"
+* <span id="xLgL-GL">xLgL-GL (in.) "below plant"</span>
     * basically anything without leaves—fungus, lichen, moss
 * xLgL-NGL (in.) "above plant"
     * trees, shrubs, flowers, etc. 
