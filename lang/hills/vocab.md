@@ -88,7 +88,7 @@
     * "danger above time"—in hills, hills folk spend more time below ground, to avoid landslides, flash floods, avalanches, etc
 * GNM (in.) - year
 * GNML (in.) - calendar
-* <span id="xLgL-GL">xLgL-GL (in.) "below plant"</span>
+* <a id="xLgL-GL"></a>xLgL-GL (in.) "below plant"
     * basically anything without leaves—fungus, lichen, moss
 * xLgL-NGL (in.) "above plant"
     * trees, shrubs, flowers, etc. 
@@ -124,7 +124,7 @@
     * also "secret sauce" (complementary)/"one weird trick" (derogatory)
 * qRLhNR (in.) - alloy, combination, bronze, brass, synthesis
 * hLLL (in.) - hair ornament, keepsake, trophy, accomplishment
-* <span id="hLdN">hLdN (in.) - food baked/cooked in containers</span>
+* <a id="hLdN"></a>hLdN (in.) - food baked/cooked in containers
     * → plainsfolk _'eto_
 ## adjectives
 * -NM- (adj/quantifier) - all
