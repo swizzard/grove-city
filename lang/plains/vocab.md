@@ -214,6 +214,7 @@
 * we-wwitte - beehive
     * they think of it as one single organism, like a weird plant
 * we-ttekke - fire
+* we-ttiwwi - [agouti](https://en.wikipedia.org/wiki/Central_American_agouti)
 * $TK-BUSINESS
 
 ### adjectives
