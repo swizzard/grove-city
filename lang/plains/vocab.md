@@ -104,6 +104,8 @@
 * me-mikka - birth
 * me-'elten - 'eto cooked by hillfolk/with hillfolk techniques
     * 'eto → [hLdN](lang/hills/vocab.md#hLdN) → 'elten
+* me-kelkel - (edible) mushrooms/lichen
+    * fr/[xLgL](lang/hills/vocab.md/#xLgL-GL)
 
 * 'e-'o'o - stand of trees, forest
 * 'e-mi'o 'e-o'o - The Grove
