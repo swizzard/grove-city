@@ -161,7 +161,7 @@ xNhN
 xNhN-M-xN-(VERB)
   : the act of VERBing    
     <i class="fa-solid fa-book"></i> `xNhN-M-xN-gL-GL-qN-qRX-rRRGL` - "journey back to yon home below," returning to the eastern hills (as a political project)    
-    <i class="fa-solid fa-book"></i> `xNhN-qL-xLxRGR` - "project against Nature," in which the hills folk see them selves perpetually engaged    
+    <i class="fa-solid fa-book"></i> `xNhN-qL-xLxRGR` - "project against Nature," in which the hillsfolk see them selves perpetually engaged    
     <i class="fa-solid fa-book"></i> `xNhN-M-xN-hNM-qL-xLxRGR` - "making against Nature" — originally/primarily civil engineering but also agronomy, chemistry/alchemy     
 
 dR
@@ -202,11 +202,11 @@ GNR
 
 GNR-RL-NLRN-GL
   : (in.) windy season    
-    <i class="fa-solid fa-book"></i> "danger below time"—in hills, hills folk spend more time above ground, allegedly to avoid worm mating season but mostly because it's nice out
+    <i class="fa-solid fa-book"></i> "danger below time"—in hills, hillsfolk spend more time above ground, allegedly to avoid worm mating season but mostly because it's nice out
 
 GNR-RL-NLRN-NGL
   : (in.) rainy season    
-    <i class="fa-solid fa-book"></i> "danger above time"—in hills, hills folk spend more time below ground, to avoid landslides, flash floods, avalanches, etc
+    <i class="fa-solid fa-book"></i> "danger above time"—in hills, hillsfolk spend more time below ground, to avoid landslides, flash floods, avalanches, etc
 
 GNM
   : (in.) year
@@ -246,14 +246,14 @@ hNNrN
 
 RhRxRLL
   : (in.) municipal government    
-    <i class="fa-solid fa-book"></i> specifically boughs folk government    
+    <i class="fa-solid fa-book"></i> specifically boughsfolk government    
      <i class="fa-solid fa-book"></i>original meaning "dealing with outsiders"
 
 qRM-LL-RL-RhRxRLL
   : (in.) Admin District
 
 qRM-LL-RL-hLR-LqMLr
-  : (in.) Old Hill ("former hills folk district")
+  : (in.) Old Hill ("former hillsfolk district")
 
 qMLN
   : (in.) river, stream (moving body of water)
@@ -262,7 +262,7 @@ qMLg
   : (in.) lake, sea (non-moving body of water)
 
 xRLL
-  : (an.) boughs folk
+  : (an.) boughsfolk
 
 qRM-qLN-LL-RL-xRLL
   : (in.) The Underbrush

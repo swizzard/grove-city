@@ -11,21 +11,22 @@
 * [urban languages](./lang/city/general.md)
 
 
-# boughs folk
+# boughsfolk
 * [about](./boughs/about.md)
 * [culture](./boughs/culture.md)
 * [language](./lang/boughs/general.md)
     * [vocabulary](./lang/boughs/vocab.md)
 
-# hills folk
+# hillsfolk
 * [about](./hills/about.md)
 * [culture](./hills/culture.md)
 * [language](./lang/hills/general.md)
     * [vocabulary](./lang/hills/vocab.md)
 
-# plains folk
+# plainsfolk
 * [about](./plains/about.md)
 * [culture](./plains/culture.md)
+* [folklore & holidays](./plains/folklore.md)
 * [language](./lang/plains/general.md)
     * [verb endings](./lang/plains/verb-endings.md)
     * [vocabulary](./lang/plains/vocab.md)

@@ -82,7 +82,7 @@
             * ttakita ttinta - puffed rice, in 2 styles
                 * mmakka - tossed in honey syrup, formed into shapes (circles, flowers)
                 * ppa'a - basically jhalmuri
-            * ttinta wa 'owi - ttinta cooked in a nannka with more liquid than most plains folk dishes, almost a stew many babies' first solid food, also fed to sick/elderly
+            * ttinta wa 'owi - ttinta cooked in a nannka with more liquid than most plainsfolk dishes, almost a stew many babies' first solid food, also fed to sick/elderly
                 * comfort food
             * ttintako mmeppo - rice wine
             * po'emmannke ttinta - mochi-like cakes made from mashed overcooked rice

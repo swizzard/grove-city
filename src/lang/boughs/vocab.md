@@ -19,7 +19,7 @@
     * practical
     * not art
 * zéɖîɟ - river
-* tʃésî, tʃísí - boughs folk
+* tʃésî, tʃísí - boughsfolk
 
 
 * dèɖɟ, dèz - year

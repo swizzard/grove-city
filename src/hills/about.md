@@ -8,9 +8,9 @@
         * hand in front of their mouth when not speaking hills
     * looking directly at someone while they're talking considered impolite
     * head down/away → standing in profile to speaker → both
-    * there's some particular posture signifying attentive listening that dates back to (before) "classical" hills folk art that now reads (a little) sarcastic outside of e.g. historical plays
+    * there's some particular posture signifying attentive listening that dates back to (before) "classical" hillsfolk art that now reads (a little) sarcastic outside of e.g. historical plays
     * head down and away AND profile AND $TK(arm and/or torso movements)
-    * "a hill folk smile" — plains folk slang for an unexpected or upsetting event
+    * "a hillsfolk smile" — plainsfolk slang for an unexpected or upsetting event
 * no gender
     * most develop perpetual 5 o'clock shadow starting around 9 y.o.
     * long hair with stuff braided/tied into it
@@ -22,15 +22,15 @@
         * walking around 18 - 24 months, talking by 3 or 4 y.o.
         * children talking not considered that important
         * ~6 in 10 children are primarily/largely raised by the person who grew them but raising "your own" child isn't culturally valorized more than raising children generally
-        * parental leave/bringing your children to work are baffling and somewhat scandalous concepts that non-hills folk employees need to explain/fight for
+        * parental leave/bringing your children to work are baffling and somewhat scandalous concepts that non-hillsfolk employees need to explain/fight for
     * maturity/adulthood means induction into phonetree & buddy system
     * retirement/senescence around 80 - 90 y.o.
         * no strong cultural template for retirement – "in the old country" you usually died at/due to work
     * oldest living hills person in city ~120 y.o.
 ## reproduction
-* occasionally a hills folk will develop a smooth hard polyp, usually somewhere on the abdomen
+* occasionally a hillsfolk will develop a smooth hard polyp, usually somewhere on the abdomen
 * the polyp falls off in about a month, usually when it gets to about the size of a person's head
-* the person it came from and their friends and neighbors look after it and if nothing bad happens, a new hills folk hatches from the polyp after another 4-6 weeks
+* the person it came from and their friends and neighbors look after it and if nothing bad happens, a new hillsfolk hatches from the polyp after another 4-6 weeks
 * this isn't common and is widely celebrated—announcements, fliers, candles, etc
 * people are invited to rub the polyp for health and good luck
 *    it absorbs bits of the personality, likes/dislikes, beliefs, etc of the people who rub it

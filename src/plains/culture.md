@@ -1,5 +1,5 @@
 # culture
-* think boughs folk are snobby and hills folk are too anxious
+* think boughsfolk are snobby and hillsfolk are too anxious
 ## 'e-nniwak
 * not (really/officially) gendered
 * values
@@ -21,7 +21,7 @@
 * someone who's at the birth, teaches life skills, has "the talk," helps kid prepare for adulthood ritual, gives dating advice, etc.
     * traditionally, they would buy the kid a saddle, riding outfit, &c and accompany them on their first ride
     * nowadays it's a gift of formalwear (kkippiko ttewa but also 'church'/'interview' clothes) and some money, and either carrying the kid on their shoulders (ideally while wearing fake oryx horns) or (mostly) pulling a wheeled replica oryx on which the celebrant rides
-* some young plains folk have more than one person in this role. this is still pretty uncommon and can happen if the original mentor is older or unwell, or the mentee's interests or aptitudes differ strongly from those of the original mentor and another community member would be a better resource
+* some young plainsfolk have more than one person in this role. this is still pretty uncommon and can happen if the original mentor is older or unwell, or the mentee's interests or aptitudes differ strongly from those of the original mentor and another community member would be a better resource
 * **NOT SEXUAL**
     * not traditionally or historically either
 ## music

@@ -1,25 +1,25 @@
 # culture
 ## calendar(s)
-* official calendar kept by boughs folk
+* official calendar kept by boughsfolk
     * 18 months of 3 weeks of 6 days
         * budding of budding of rainy season, flourishing of budding of rainy season, wilting of budding of rainy season, budding of flourishing of rainy season, flourishing of flourishing of rainy season, wilting of flourishing of rainy season, budding of wilting of rainy season, flourishing of wilting of rainy season, wilting of wilting of rainy season, budding of budding of windy season, etc.
     * year conceived of as starting at end of windy season/beginning of rainy season
     * weeks conceived of as 3 2-part "days"
         * 8th day of 3rd month would be sth like "the latter part of the budding day of the flourishing week of the fading month of the budding of windy season"
-    * big, complex floral calendar in the Administrative District, originally devised and constructed by hill folk as a show of (undeserved, unreturned) good faith
+    * big, complex floral calendar in the Administrative District, originally devised and constructed by hillsfolk as a show of (undeserved, unreturned) good faith
     * years "since founding" (Tʃáíz Àʈʈʂîétʃêt eg Ʂèɟ Sèìtʃ, TS)
-* hill folk just count days (1 - 324)
-    * the original hf emigres decided early on to adjust their calendar to better align with the boughs folk's
+* hillsfolk just count days (1 - 324)
+    * the original hf emigres decided early on to adjust their calendar to better align with the boughsfolk's
         * 117 days skipped, years reset
         * 1st Day of 1st Year Here (1.1 GL) = 118th Day of 4501st Year There (4501.118 GR) = 1271 TS
-* plains folk $TK
+* plainsfolk $TK
 
 ## civic organizations/clubs/teams
-* hills folk tradition
+* hillsfolk tradition
     * professional organizations
     * semiformalized coparenting situations
     * disaster response — alert/buddy system
-* plains folk tradition
+* plainsfolk tradition
     * clans/tribes
     * livestock raiding
     * finding/getting to best seasonal grazing/agriculture spots first
@@ -49,7 +49,7 @@
 
 ## holidays
 * "field days"
-    * major plains folk holidays (5x/year)
+    * major plainsfolk holidays (5x/year)
 
 ## sports
 ### slapbball/city ball
@@ -84,8 +84,8 @@
 
 ## Street Food
 * pressure-cooker steamed sweet potatoes
-    * hills folk familiar with wild cassava and carrots
+    * hillsfolk familiar with wild cassava and carrots
     * superheated steam
-* plains folk-run roast chicken places
+* plainsfolk-run roast chicken places
 * breadfruit
 * fritters 

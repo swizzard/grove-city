@@ -1,30 +1,30 @@
 # economy
-* boughs folk don't (need to) eat
+* boughsfolk don't (need to) eat
     * sacred/magic fruit?
 * some food imported
 * currency = wooden beads on strings
-    * boughs folk practice, originating as records of debts
+    * boughsfolk practice, originating as records of debts
     * there's some (now nearly extinct) species of ultramahogany that's very beautiful but extra-hard to carve
     * technically/traditionally more complex shape →more valuable but 'making change' is difficult so most people just use toruses, the lowest denomination
     * torus →trianglular prism w/a hole in the middle →hexagonal prism w/a hole in the middle→dodecagonal prism w/a hole in the middle
     * logarithmic?
     * alternatives
-        * plains folk merchants keep ledgers, payments made monthly
+        * plainsfolk merchants keep ledgers, payments made monthly
         * seeds kept in shallow bowls (like mancala)
         * ledger, not currency, but roughly map onto subdivisions of currency
-        * plains folk barter
+        * plainsfolk barter
             * getting a good deal is _nniwak_
-        * hills folk manage resources collectively
+        * hillsfolk manage resources collectively
 * employment
-    * mostly boughs folk employers
+    * mostly boughsfolk employers
         * a merchant with a ship to load/unload strikes a contract with (usually) a group of plainsfolk to move their goods
         * a homeowner commissions a new water feature
-    * hills folk artisans
-        * directly commissioned by boughs folk for local projects
+    * hillsfolk artisans
+        * directly commissioned by boughsfolk for local projects
             * construction, objets d'art, automata
         * funded by merchants to produce goods for export
             * woodware, instruments, cloth, dyes
-        * some plains folk starting to open workshops
+        * some plainsfolk starting to open workshops
             * _'owi_-skin tanneries
                 * sports equipment
             * _'eto_ factories
@@ -38,9 +38,9 @@
     * small-scale traders
     * risky, expensive
     * imports mostly raw materials, exports mostly (more) finished products
-    * boughs folk control access to river & Long Dock
-    * boughs folk merchants, plains folk stevedores
-    * repurposed plains folk portage technologies
+    * boughsfolk control access to river & Long Dock
+    * boughsfolk merchants, plainsfolk stevedores
+    * repurposed plainsfolk portage technologies
     * strap/weight-distribution systems
     * sledges
 * business loans

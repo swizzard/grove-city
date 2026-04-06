@@ -50,7 +50,7 @@
 * 2s/2p inclusive
 * 2s/2p 'exclusive'
 * 3s/3p
-* 2p 'exclusive' f/minors & non-hills folk
+* 2p 'exclusive' f/minors & non-hillsfolk
     * participant in coming of age ritual addressed w/2p exclusive before they swear to participate in xNhN-qL-xLxRGR
 
 * no passive voice but vis corresponding to passive form of several common vts, plus a general "be subjected to" + verbal noun
@@ -141,8 +141,8 @@ rRRNGL
   "that person i saw left"
 
 *     ML-GL-R-g-N-M-dRN-RL-G-LRL-N-G-hLR  
-      be glad-down-pres.-stative-anim. subj.-agent/topic-cooperativeness-poss.-def.-child(ren)-anim. subj. of intrans. v-def.-hill folk    
-   "(it is a fact/agreed that) (all) the hill folk are pleased by the agreeableness of (all) the children" = "the hill folk love the plains folk's amiability"
+      be glad-down-pres.-stative-anim. subj.-agent/topic-cooperativeness-poss.-def.-child(ren)-anim. subj. of intrans. v-def.-hillsfolk    
+   "(it is a fact/agreed that) (all) the hillsfolk are pleased by the agreeableness of (all) the children" = "the hillsfolk love the plainsfolk's amiability"
 *     hNN-R-N-M-qLXLLX-N-NN    
       suffer from-pres-anim.subj.-topic-disease-anim.subj.-1p    
    "i suffer from disease" = "i'm sick"    

@@ -103,7 +103,7 @@
 * "you are responsible for the security of these 0-2 people"
 * (a variation on) the same hair ornament for everyone involved
     * a bell and an outstretched hand?
-* plains folk are beneficiaries but lower-tier
+* plainsfolk are beneficiaries but lower-tier
     * not responsible enough to participate
     * "secure your own mask first" vibes — check on your upstairs neighbors after you've alerted your own people
 * all adults can (or are supposed to be able to) do a certain set of things
@@ -145,9 +145,9 @@
 * balls made with coagulated mushroom latex core, optionally wrapped with mosses v.s. and covered in worm-/agouti leather
 
 ## opinions
-* boughs folk are untrustworthy
+* boughsfolk are untrustworthy
     * many younger hf mad about Old Hill, e.g.
-* plains folk are children
-    * planning committees, disaster preparedness groups, etc. say "(the) children and our children" to mean "all plains folk and hill folk minors"
+* plainsfolk are children
+    * planning committees, disaster preparedness groups, etc. say "(the) children and our children" to mean "all plainsfolk and hillsfolk minors"
 * dislike birds, especially parrots
 
