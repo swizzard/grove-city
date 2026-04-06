@@ -1,14 +1,19 @@
 # verb endings
 
 ## nonfinite
-* we-V → "(the act/process of) Ving"
-* participles
+
+_we_-V
+  : "(the act/process of) Ving"
+
+### participles
 
 |         | pres.   | perf    | past    |
 | ------- | ------- | ------- | ------- |
-| active  | to- 'o  | to- -ko | to- -no |
-| passive | po- -'e | po -ke  | po -ne  |
+| active  | to- -'o | to- -ko | to- -no |
+| passive | po- -'e | po- -ke | po- -ne |
 
+
+## finite
 | active+indicative | pres     | perf     | imperf   | past     | pluperf   |
 | ----------------- | -------- | -------- | -------- | -------- | --------- |
 | 1s                | wwa- -'o | wwe- -ko | wwe- -'o | wwe- -no | wwe- -nno |
@@ -19,6 +24,8 @@
 | 2p                | ti- -'o  | tti- -ko | tti- -'o | tti- -no | tti- -nno |
 | 3s                | na- -'o  | nna- -ko | nna- -'o | nna- -no | nna- -nno |
 | 3p                | ni- -'o  | nni- -ko | nni- -'o | nni- -no | nni- -nno |
+<br/>
+
 
 | active+subjunctive | pres     | perf     | imperf   | past     | pluperf   |
 | ------------------ | -------- | -------- | -------- | -------- | --------- |
@@ -30,6 +37,7 @@
 | 2p                 | ti- -wo  | tte- -ko | tti- -wo | tte- -no | tte- -nno |
 | 3s                 | na- -wo  | nno- -ko | nna- -wo | nno- -no | nno- -nno |
 | 3p                 | ni- -wo  | nne- -ko | nni- -wo | nne- -no | nne- -nno |
+<br/>
 
 | passive+indicative | pres       | perf        | imperf      | past        | pluperf      |
 | ------------------ | ---------- | ----------- | ----------- | ----------- | ------------ |
@@ -41,6 +49,7 @@
 | 2p                 | ki- -'o    | kiti- -ko   | kiti- -'o   | kiti- -no   | kiti- -nno   |
 | 3s                 | to- -'o    | toto- -ko   | toto- -'o   | toto- -no   | toto- -nno   |
 | 3p                 | te- -'o    | tete- -ko   | tete- -'o   | tete- -no   | tete- -nno   | 
+
 
 * passive subjunctive peno- -'o, pene- -'o, pento- -ko, pente- -ko, etc
     * 3s/3p passive indicative & subjunctive the same
