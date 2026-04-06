@@ -50,21 +50,18 @@
 ## holidays
 * "field days"
     * major plains folk holidays (5x/year)
+
 ## sports
-### hills folk
-* various handball games
-    * single-player for patience and concentration
-    * multiplayer varies from squash-like to volleyball-like
-    * ∞-player game where you have to pass the ball to someone else by bouncing it off a wall/ceiling without it hitting the ground or touching it 2x
-* traditional balls made from wormleather stuffed with mosses or fungi, city balls agouti leather stuffed with vines
-### plains folk
-* polo/rugby/capture-the-flag
-    * evolved from livestock raids
-        * chicken under the arm etc
-    * rugby except the ball is weighted and feathered like a shuttlecock
-        * hard to kick/throw accurately for distance
-* wrestling
-### slap ball/city ball
+### slapbball/city ball
+
+![slapball field](../images/slapball-field.png)
+
+    B: batter
+    F: fielder
+    P: pitcher
+    1st: first base
+    →: direction of running batter
+
 * 6 players/side
 * 6 bases + home
     * home in middle, bases arranged in hexagon around home
@@ -77,6 +74,13 @@
     * can go home at any time
 * outs made by tagging runner
     * catches don't count
+
+### 'bocce'/'pitching quarters'
+* **$TK_NAME(S)**
+* throwing a rock v.s. closest to a target 
+* informal/nascent
+    * started by, still largely for older people
+    * not strenuous or particularly rigorous
 
 ## Street Food
 * pressure-cooker steamed sweet potatoes

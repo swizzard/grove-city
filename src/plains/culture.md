@@ -42,16 +42,22 @@
 * some religious rites need open sky
 
 * livestock is Important
-    * traditionally kkippi and 'owi but in city just 'owi
-        * kkippi = oryx or ibex
-        * 'owi = [bobwhite](https://en.wikipedia.org/wiki/Northern_bobwhite) 
+    * traditionally _kkippi_ and _'owi_ but in city just _'owi_
+        * _kkippi_ = (semi-)domesticated [oryx](https://en.wikipedia.org/wiki/Scimitar_oryx)
+            * breeding your own never as valorized or common as capturing & taming wild ones
+        * _'owi_ = [bobwhite](https://en.wikipedia.org/wiki/Northern_bobwhite) 
             * ~9-12" tall, 1.5-2lbs
             * often sit down under stress
             * each family has their own, usually kept on the roof
                 * communal coops but everybody knows whose is whose
-* also rooftop/balcony gardens
-    * ~ritual homesteading–not necessarily expectation of self-sufficiency but everyone thinks you're kind of a fuckup if you aren't at least growing a few flowers or keeping a healthy chicken
+* rooftop/balcony gardens
+    * ~ritual homesteading
+        * not necessarily expectation of self-sufficiency but everyone thinks you're kind of a fuckup if you aren't at least growing a few flowers or keeping a healthy _'owi_
     * traditional plants hearty/low-maintenance
+    * roofs of commercial buildings used commercially
+        * mostly _'i'i_, some _'a'i'_
+            * _ttinta_ mostly grown out of town
+            * _kkamonn_ is very easy/cheap to grow and nobody uses enough of it to make it worth growing commercially
 
 ## food
 * methods
@@ -76,9 +82,17 @@
 * _mmi'i_ (chiles)
 
 ##  employment/livelihood
-* small-scale personal farming on apartment roofs
-    * 'owi, 'a'i, kkamonn
+* small-scale community farming on apartment roofs
+    * _'owi_, _'a'i_, _kkamonn_
+* stevadoring
+* grocers, food service
+* "unskilled" labor for hillsfolk
+    * janitorial, carrying stuff, manual labor, etc.
 
-
-
-
+## sports
+* polo/rugby/capture-the-flag
+    * evolved from livestock raids
+        * _'owi_ under the arm etc
+    * rugby except the ball is weighted and feathered like a shuttlecock
+        * hard to kick/throw accurately for distance
+* wrestling

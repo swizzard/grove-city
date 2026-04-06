@@ -137,6 +137,13 @@
         * it's relatively a lot of work & population usually decreased naturally
     * some attempts in city, it's going ok
 
+## sports
+* various handball games
+    * single-player for patience and concentration
+    * multiplayer varies from squash-like to volleyball-like
+    * ∞-player game where you have to pass the ball to someone else by bouncing it off a wall/ceiling without it hitting the ground or touching it 2x
+* balls made with coagulated mushroom latex core, optionally wrapped with mosses v.s. and covered in worm-/agouti leather
+
 ## opinions
 * boughs folk are untrustworthy
     * many younger hf mad about Old Hill, e.g.
