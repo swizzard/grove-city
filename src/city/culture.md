@@ -43,6 +43,30 @@
         * buildings "adopt" (families of) parrots
 
 
+## writing
+### palm leaves
+* like in [palm-leaf manuscripts](https://en.wikipedia.org/wiki/Palm-leaf_manuscript)
+    * leaves cut & cured
+    * writing is inscribed onto leaf, ink applied to incisions
+        * colored inks made from local plants
+* originally boughsfolk technology
+* some manuscripts but a lot of leaflets and posters
+    * [wheatpaste](https://en.wikipedia.org/wiki/Wheatpaste)
+### hillsfolk inscriptions
+* write on everything
+* warnings, instructions, minutes
+* the closer text is to its point of use, the better
+    * markers > maps
+    * don't write a discrete owner's manual, just write down the instructions on the thing
+    * history books are ok because we know history is real, other books are suspect 
+        * if you can't write on it, is it real?
+* cuneiform x hangul — chisel-oriented
+    * bicameral — upper-case/high-vis, lower-case/denser
+### plainsfolk
+* don't traditionally write, big oral tradition
+    * written words can't/don't move, aren't free like spoken words
+* some kind of [quipu](https://en.wikipedia.org/wiki/Quipu)-like portable memory aid
+
 
 ## urban legends
 * 'Owi MMowi - a feral 'owi supposedly capable of jumping from building to building, running super fast, etc. The joke is that every feral 'owi (of which there 20? throughout the city) is supposedly 'Owi MMowi
