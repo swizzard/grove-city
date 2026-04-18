@@ -14,18 +14,18 @@
         * ballistas covered by branches, certain buildings everyone knows about but doesn't discuss
     * $TK-BOUGHS-FOLK-EQUIVALENT-OF-PUBLIC-BATHS
 ### boughsfolk temple
-    * one discrete, shabbyish building (boughsfolk aren't that religious)
-    * mostly where you come to give birth
-        * birthing ritual with family & friends
-            * sexual partner(s) usually wait outside
-            * loud, gross, violent
-            * unguents, chanting, screaming
-            * kind of midsommar
-            * there's a specific kind of epiphyte with a spongy texture that's traditionally squeezed
-            * immediate baptism/bris
-                * clipping the 'egg tooth'
-                * public announcement of name & parentage
-                    * modulo surrogacy, pre-arranged adoption, etc
+* one discrete, shabbyish building (boughsfolk aren't that religious)
+* mostly where you come to give birth
+    * birthing ritual with family & friends
+        * sexual partner(s) usually wait outside
+        * loud, gross, violent
+        * unguents, chanting, screaming
+        * kind of midsommar
+        * there's a specific kind of epiphyte with a spongy texture that's traditionally squeezed
+        * immediate baptism/bris
+            * clipping the 'egg tooth'
+            * public announcement of name & parentage
+                * modulo surrogacy, pre-arranged adoption, etc
 ## Shadyside
 ### Administrative District
 * ground-level administrative w/"lower" courts (har), magistrates, etc
